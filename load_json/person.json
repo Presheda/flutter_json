@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Edafe",
+    "age": "20",
+    "gender": "Male",
+    "height": "5.9",
+    "hair_color": "black"
+  },
+  {
+    "name": "John Smith",
+    "age": "35",
+    "gender": "Male",
+    "height": "5.0",
+    "hair_color": "black"
+  },
+  {
+    "name": "Diana Rose",
+    "age": "29",
+    "gender": "Female",
+    "height": "6.1",
+    "hair_color": "pink"
+  },
+  {
+    "name": "Scaralet Johnson",
+    "age": "32",
+    "gender": "Female",
+    "height": "5.9",
+    "hair_color": "red"
+  }
+]
